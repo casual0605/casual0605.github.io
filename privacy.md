@@ -1,12 +1,14 @@
 # PRIVACY POLICY
 ## Information and Data I Collect from You
-`When you use our Services, you may give us your contact information directly on our Ibsite, generally your name and email address. I also collect certain information and data, such as your application usage, access, session times and in-app purchases, your unique device ID, hardware type, the version of your operating system (“OS”), your device name, your name, email address and cover photos (if you have connected to Facebook or Google+), and your general (city/country) location (based on your Internet Protocol (“IP”) address).`
+```
+    When you use our Services, you may give us your contact information directly on our Ibsite, generally your name and email address. I also collect certain information and data, such as your application usage, access, session times and in-app purchases, your unique device ID, hardware type, the version of your operating system (“OS”), your device name, your name, email address and cover photos (if you have connected to Facebook or Google+), and your general (city/country) location (based on your Internet Protocol (“IP”) address).
 
-    In addition, I create a unique user ID to track your use of our Service. This unique user ID is stored in connection with your profile information to track the games you are playing.
+  In addition, I create a unique user ID to track your use of our Service. This unique user ID is stored in connection with your profile information to track the games you are playing.
 
     I may occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
 
     I may collect non-personal information about you through our Service. Such information may include your operating system type and version, and the time and date of your visit to the Service.
+```
 
 ## How I Use Your Information
     our primary goals in using your information are to create your account, provide Services to you, troubleshoot, improve and optimize our Services, contact you, conduct research and create reports for internal use. I use information collected through our Service for purposes described in this Policy or disclosed to you in connection with our Service. For example, I may use your information to:
