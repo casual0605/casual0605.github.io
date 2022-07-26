@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 ## Information and Data I Collect from You
-    When you use our Services, you may give us your contact information directly on our Ibsite, generally your name and email address. I also collect certain information and data, such as your application usage, access, session times and in-app purchases, your unique device ID, hardware type, the version of your operating system (“OS”), your device name, your name, email address and cover photos (if you have connected to Facebook or Google+), and your general (city/country) location (based on your Internet Protocol (“IP”) address).
+    `When you use our Services, you may give us your contact information directly on our Ibsite, generally your name and email address. I also collect certain information and data, such as your application usage, access, session times and in-app purchases, your unique device ID, hardware type, the version of your operating system (“OS”), your device name, your name, email address and cover photos (if you have connected to Facebook or Google+), and your general (city/country) location (based on your Internet Protocol (“IP”) address).`
 
     In addition, I create a unique user ID to track your use of our Service. This unique user ID is stored in connection with your profile information to track the games you are playing.
 
